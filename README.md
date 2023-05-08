@@ -9,6 +9,7 @@ My name is Raphaël Maurice Forment, I am a musician and live-coder from France 
 ### Some projects (or future projects)
 
 - [Sardine](https://github.com/Bubobubobubobubo/sardine): live-coding with Python 3.11.
+  - [Sardine VSCode](https://github.com/Bubobubobubobubo/sardine-vscode): the companion extension.
 - [Sliderwolf](https://github.com/Bubobubobubobubo/sliderwolf): a fun MIDI Controller.
 - [Sardine Sounds](https://github.com/Bubobubobubobubo/sardine-sounds): a sound library for Sardine.
 - [Sonic Pipe](https://github.com/Bubobubobubobubo/sonic_pipe): a weird/abandoned TUI interface to Sonic Pi.
