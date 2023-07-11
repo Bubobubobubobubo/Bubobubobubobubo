@@ -10,7 +10,8 @@ My name is Raphaël Maurice Forment, I am a musician and live-coder from France 
 
 - [Sardine](https://github.com/Bubobubobubobubo/sardine): live-coding with Python 3.11.
   - [Sardine VSCode](https://github.com/Bubobubobubobubo/sardine-vscode): the companion extension.
-  - [Flok](https://github.com/munshkr/flok) integration for collaborative jamming! 
+  - [Flok](https://github.com/munshkr/flok) integration for collaborative jamming!
+- [Monocosm](https://github.com/Bubobubobubobubo/Monocosm): prototype for a 2D TS-based live coding environment.
 - [Sliderwolf](https://github.com/Bubobubobubobubo/sliderwolf): a fun MIDI Controller.
 - [Sardine Sounds](https://github.com/Bubobubobubobubo/sardine-sounds): a sound library for Sardine.
 - [Sonic Pipe](https://github.com/Bubobubobubobubo/sonic_pipe): a weird/abandoned TUI interface to Sonic Pi.
