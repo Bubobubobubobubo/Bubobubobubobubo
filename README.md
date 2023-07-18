@@ -9,6 +9,7 @@ My name is Raphaël Maurice Forment, I am a musician and live-coder from France 
 ### Some projects (or future projects)
 
 - [Sardine](https://github.com/Bubobubobubobubo/sardine): live-coding with Python 3.11.
+  - [Sardine Web](https://github.com/sardine-system/sardine-web): A TypeScipt based editor for Sardine! 
   - [Sardine VSCode](https://github.com/Bubobubobubobubo/sardine-vscode): the companion extension.
   - [Flok](https://github.com/munshkr/flok) integration for collaborative jamming!
 - [Monocosm](https://github.com/Bubobubobubobubo/Monocosm): prototype for a 2D TS-based live coding environment.
