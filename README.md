@@ -2,7 +2,7 @@
 
 My name is Raphaël Maurice Forment, I am a musician and live-coder from France (Lyon / Paris). I am mostly working in the field of computer music, building systems for musical improvisation. I am dedicated to use my computer as a creative / expressive musical instrument like any other 🐡. Even though I am not a natural born programmer, I am willing to deep-dive when needed and I love programming as a craft practice. I am currently doing my PhD at the Jean Monnet University of Saint-Etienne, working on live coding.
 
-- 🔭 I’m currently working on [Sardine](https://sardine.raphaelforment.fr/) and [Topos](https://github.com/Bubobubobubobubo/Topos/), a live coding environment for Python.
+- 🔭 I’m currently working on [Sardine](https://sardine.raphaelforment.fr/) and [Topos](https://github.com/Bubobubobubobubo/Topos/), two live coding environments.
 - 🌱 Learning more about Python, packaging, Rust, building robust software, etc.
 - 📫 How to reach me: GitHub Issues
 
