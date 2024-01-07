@@ -15,5 +15,6 @@ My name is Raphaël Maurice Forment, I am a musician and live-coder from France 
 - [Topos](https://github.com/Bubobubobubobubo/Topos): prototype for a Monome Teletype inspired live coding environment.
 - [Monocosm](https://github.com/Bubobubobubobubo/Monocosm): prototype for a 2D TS-based live coding environment.
 - [Sliderwolf](https://github.com/Bubobubobubobubo/sliderwolf): a fun MIDI Controller.
+- [BuboQuark](https://github.com/Bubobubobubobubo/buboquark): my SuperCollider live coding setup.
 - [Sardine Sounds](https://github.com/Bubobubobubobubo/sardine-sounds): a sound library for Sardine.
 - [Sonic Pipe](https://github.com/Bubobubobubobubo/sonic_pipe): a weird/abandoned TUI interface to Sonic Pi.
