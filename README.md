@@ -1,10 +1,10 @@
 ### Hi 👋
 
-My name is Raphaël Maurice Forment, I am a musician and live-coder from France (Lyon / Paris). I am mostly working in the field of computer music, building systems for musical improvisation. I am dedicated to use my computer as a creative / expressive musical instrument like any other 🐡. Even though I am not a natural born programmer, I am willing to deep-dive when needed and I love programming as a craft practice. I am currently doing my PhD at the Jean Monnet University of Saint-Etienne, working on live coding.
+My name is Raphaël Maurice Forment, I am a musician and live-coder from France (Lyon / Paris). I build systems for musical improvisation. I am not a natural born programmer but I am willing to deep-dive when I need to and I love programming as a craft practice. I am currently doing my PhD at the Jean Monnet University of Saint-Etienne working on live coding. I play concerts, I give workshops, I try to articulate code with artistic practice as much as possible.
 
 - 🔭 I’m currently working on [Sardine](https://sardine.raphaelforment.fr/) and [Topos](https://github.com/Bubobubobubobubo/Topos/), two live coding environments.
-- 🌱 Learning more about Python, packaging, Rust, building robust software, etc.
-- 📫 How to reach me: GitHub Issues
+- 🌱 Learning more about Python, packaging and building robust software, etc.
+- 📫 How to reach me: GitHub Issues or e-mail (easy to find)
 
 ### Some projects (or future projects)
 
@@ -13,7 +13,7 @@ My name is Raphaël Maurice Forment, I am a musician and live-coder from France 
   - [Sardine VSCode](https://github.com/Bubobubobubobubo/sardine-vscode): the companion plugin for VSCode.
   - [Flok](https://github.com/munshkr/flok): Sardine integration for collaborative networked jamming!
 - [Topos](https://github.com/Bubobubobubobubo/Topos): prototype for a Monome Teletype inspired live coding environment.
-- [Monocosm](https://github.com/Bubobubobubobubo/Monocosm): prototype for a 2D TS-based live coding environment.
+- [Monocosm](https://github.com/Bubobubobubobubo/Monocosm): abandoned prototype for a 2D TS-based live coding environment.
 - [Sliderwolf](https://github.com/Bubobubobubobubo/sliderwolf): a fun MIDI Controller.
 - [BuboQuark](https://github.com/Bubobubobubobubo/buboquark): my SuperCollider live coding setup.
 - [Sardine Sounds](https://github.com/Bubobubobubobubo/sardine-sounds): a sound library for Sardine.
