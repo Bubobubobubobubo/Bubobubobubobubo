@@ -13,6 +13,8 @@ My name is Raphaël Maurice Forment, I am a musician and live-coder from France 
   - [Sardine VSCode](https://github.com/Bubobubobubobubo/sardine-vscode): the companion plugin for VSCode.
   - [Flok](https://github.com/munshkr/flok): Sardine integration for collaborative networked jamming!
 - [Topos](https://github.com/Bubobubobubobubo/Topos): prototype for a Monome Teletype inspired live coding environment.
+- [BuboQuark](https://github.com/Bubobubobubobubo/BuboQuark): my SuperCollider-based live coding setup.
+
 - [Monocosm](https://github.com/Bubobubobubobubo/Monocosm): abandoned prototype for a 2D TS-based live coding environment.
 - [Sliderwolf](https://github.com/Bubobubobubobubo/sliderwolf): a fun MIDI Controller.
 - [BuboQuark](https://github.com/Bubobubobubobubo/buboquark): my SuperCollider live coding setup.
